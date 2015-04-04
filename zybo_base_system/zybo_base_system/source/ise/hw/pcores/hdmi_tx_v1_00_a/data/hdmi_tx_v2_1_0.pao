@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          C:/sam_work/EDK_projects/14_7/ZyBo_Verification/pcores/hdmi_tx_v1_00_a/data/hdmi_tx_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Feb 13 00:57:50 2014 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib hdmi_tx_v1_00_a SerializerN_1 vhdl
+lib hdmi_tx_v1_00_a TMDSEncoder vhdl
+lib hdmi_tx_v1_00_a DVITransmitter vhdl
+lib hdmi_tx_v1_00_a hdmi_tx vhdl

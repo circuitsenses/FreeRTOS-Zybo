@@ -1,0 +1,93 @@
+18:49:08 INFO  : Processing command line option -hwspec G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper.hdf.
+18:52:35 INFO  : ps7_init is completed.
+18:52:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:54:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:06:48 INFO  : ps7_init is completed.
+19:06:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:15:20 INFO  : ps7_init is completed.
+19:15:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:34:32 INFO  : ps7_init is completed.
+19:34:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:40:06 INFO  : ps7_init is completed.
+19:40:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:41:32 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+19:43:03 INFO  : ps7_init is completed.
+19:43:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:11:02 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:12:54 INFO  : Processing command line option -hwspec G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper.hdf.
+20:12:54 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.
+20:19:31 INFO  : ps7_init is completed.
+20:19:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:21:52 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+20:22:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:22:02 ERROR : Port COM5 is already in use.
+20:24:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:26:57 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+20:27:05 INFO  : ps7_init is completed.
+20:27:05 INFO  : ps7_post_config is completed.
+20:27:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:05:36 INFO  : ps7_init is completed.
+22:05:36 INFO  : ps7_post_config is completed.
+22:05:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:06:33 INFO  : ps7_init is completed.
+22:06:33 INFO  : ps7_post_config is completed.
+22:06:33 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:08:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:08:31 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Error downloading program to target: 
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.loadProgram(XilinxAppLaunchConfigurationDelegate.java:762)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.debugApplication(XilinxAppLaunchConfigurationDelegate.java:643)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:254)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1047)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+22:08:47 INFO  : ps7_init is completed.
+22:08:47 INFO  : ps7_post_config is completed.
+22:08:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:14:54 INFO  : ps7_init is completed.
+22:14:54 INFO  : ps7_post_config is completed.
+22:14:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:16:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:16:14 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error while running ps7_init method.
+Debug Operation Not Supported on the Target, Current Processor State is not "Stopped"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.run_ps7_init(TM.java:1230)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:411)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.debugApplication(XilinxAppLaunchConfigurationDelegate.java:598)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:254)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1047)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+22:16:50 INFO  : ps7_init is completed.
+22:16:50 INFO  : ps7_post_config is completed.
+22:16:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:17:41 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+22:17:41 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+22:17:54 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+22:18:04 INFO  : ps7_init is completed.
+22:18:04 INFO  : ps7_post_config is completed.
+22:18:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:19:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:20:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:22:07 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+22:22:15 INFO  : ps7_init is completed.
+22:22:15 INFO  : ps7_post_config is completed.
+22:22:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:23:33 INFO  : FPGA configured successfully with bitstream "G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+22:23:54 INFO  : ps7_init is completed.
+22:23:54 INFO  : ps7_post_config is completed.
+22:23:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:25:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:27:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:28:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:33:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:12:07 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:38:52 INFO  : Processing command line option -hwspec G:/Zybo/FreeRTOS_2/zybo_base_system/zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.sdk/system_wrapper.hdf.
+18:38:53 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.

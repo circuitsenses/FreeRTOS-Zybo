@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader].\fsbl.elf
+	.\system.bit
+	.\base_demo.elf
+}

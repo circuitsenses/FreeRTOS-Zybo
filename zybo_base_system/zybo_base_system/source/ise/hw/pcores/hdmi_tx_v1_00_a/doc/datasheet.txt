@@ -1,0 +1,8 @@
+A future release of the ZYBO Base System design
+will include a datasheet for the hdmi_tx core 
+in this location, including a list of Parameters
+and Ports. Check back very soon for an updated project. 
+
+For the time being, refer to the included hardware 
+designs (XPS and Vivado projects) and SDK software
+to learn how to use this core.

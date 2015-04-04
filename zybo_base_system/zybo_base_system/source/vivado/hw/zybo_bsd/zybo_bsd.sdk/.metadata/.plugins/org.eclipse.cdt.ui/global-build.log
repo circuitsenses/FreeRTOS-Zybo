@@ -1,0 +1,1076 @@
+18:49:56 **** Build of project FreeRTOSZ_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axi_dispctrl_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/axi_dispctrl_v1_00_a/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/axi_i2s_adi_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/axi_i2s_adi_v1_00_a/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v5_0/src"
+make -C ps7_cortexa9_0/libsrc/axivdma_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/common_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/common_v1_00_a/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/iicps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/iicps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/rtosleds_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/rtosleds_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v4_1/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axi_dispctrl_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/axi_dispctrl_v1_00_a/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axi_dispctrl..."
+In file included from axi_dispctrl.h:7:0,
+                 from axi_dispctrl.c:4:
+../../../include/xbasic_types.h:124:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../../include/xbasic_types.h:125:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+In file included from axi_dispctrl.h:7:0,
+                 from axi_dispctrl_selftest.c:3:
+../../../include/xbasic_types.h:124:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../../include/xbasic_types.h:125:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+arm-xilinx-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/axi_i2s_adi_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/axi_i2s_adi_v1_00_a/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axi_i2s_adi..."
+In file included from axi_i2s_adi.h:7:0,
+                 from axi_i2s_adi.c:4:
+../../../include/xbasic_types.h:124:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../../include/xbasic_types.h:125:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+In file included from axi_i2s_adi.h:7:0,
+                 from axi_i2s_adi_selftest.c:3:
+../../../include/xbasic_types.h:124:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../../include/xbasic_types.h:125:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v5_0/src"
+make -C ps7_cortexa9_0/libsrc/axivdma_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axivdma"
+"Running Make libs in ps7_cortexa9_0/libsrc/common_v1_00_a/src"
+make -C ps7_cortexa9_0/libsrc/common_v1_00_a/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling common"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/iicps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/iicps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling iicps"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/rtosleds_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/rtosleds_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling RTOSLeds..."
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v4_1/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v4_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+18:50:11 **** Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22940	   1096	  29780	  53816	   d238	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+18:52:24 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+18:53:29 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22956	   1096	  29780	  53832	   d248	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+18:54:06 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+19:06:23 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:41:6: warning: variable 's' set but not used [-Wunused-but-set-variable]
+  int s = 0;
+      ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22972	   1096	  29780	  53848	   d258	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:06:31 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:48:1: error: expected ';' before '}' token
+ }
+ ^
+make: *** [src/helloworld.o] Error 1
+19:06:35 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22972	   1096	  29780	  53848	   d258	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:06:39 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+19:07:49 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:47:12: error: 's' undeclared (first use in this function)
+     return s;
+            ^
+../src/helloworld.c:47:12: note: each undeclared identifier is reported only once for each function it appears in
+../src/helloworld.c:48:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/helloworld.o] Error 1
+19:07:54 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22956	   1096	  29780	  53832	   d248	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:15:11 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+19:33:55 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:45:5: warning: implicit declaration of function 'Xil_Out32' [-Wimplicit-function-declaration]
+     Xil_Out32((0x43c30000 + RTOSLEDS_S00_AXI_SLV_REG0_OFFSET), 0xA);
+     ^
+../src/helloworld.c:45:29: error: 'RTOSLEDS_S00_AXI_SLV_REG0_OFFSET' undeclared (first use in this function)
+     Xil_Out32((0x43c30000 + RTOSLEDS_S00_AXI_SLV_REG0_OFFSET), 0xA);
+                             ^
+../src/helloworld.c:45:29: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/helloworld.o] Error 1
+19:34:07 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:46:5: warning: implicit declaration of function 'Xil_Out32' [-Wimplicit-function-declaration]
+     Xil_Out32((0x43c30000 + RTOSLEDS_S00_AXI_SLV_REG0_OFFSET), 0xA);
+     ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22956	   1096	  29780	  53832	   d248	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:34:23 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+19:39:58 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+19:41:09 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:46:5: warning: implicit declaration of function 'Xil_Out32' [-Wimplicit-function-declaration]
+     Xil_Out32((0x43c30000 + RTOSLEDS_S00_AXI_SLV_REG0_OFFSET), 0xA);
+     ^
+../src/helloworld.c:48:5: warning: implicit declaration of function 'whille' [-Wimplicit-function-declaration]
+     whille(1);
+     ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/helloworld.o: In function `main':
+G:\Zybo\FreeRTOS_2\zybo_base_system\zybo_base_system\source\vivado\hw\zybo_bsd\zybo_bsd.sdk\FreeRTOSZ\Debug/../src/helloworld.c:48: undefined reference to `whille'
+collect2.exe: error: ld returned 1 exit status
+make: *** [FreeRTOSZ.elf] Error 1
+19:41:17 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:46:5: warning: implicit declaration of function 'Xil_Out32' [-Wimplicit-function-declaration]
+     Xil_Out32((0x43c30000 + RTOSLEDS_S00_AXI_SLV_REG0_OFFSET), 0xA);
+     ^
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22948	   1096	  29780	  53824	   d240	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:42:36 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c:39:6: error: conflicting types for 'print'
+ void print(char *str);
+      ^
+In file included from ../../FreeRTOSZ_bsp/ps7_cortexa9_0/include/xil_io.h:74:0,
+                 from ../src/helloworld.c:35:
+../../FreeRTOSZ_bsp/ps7_cortexa9_0/include/xil_printf.h:39:6: note: previous declaration of 'print' was here
+ void print( const char *ptr);
+      ^
+make: *** [src/helloworld.o] Error 1
+19:42:48 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22948	   1096	  29780	  53824	   d240	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+19:42:54 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+20:19:20 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+20:21:56 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+20:24:08 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+20:27:00 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+21:19:59 **** Clean-only build of configuration Debug for project FreeRTOSZ ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  FreeRTOSZ.elf.size  FreeRTOSZ.elf
+' '
+21:19:59 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.OLD.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.OLD.d" -MT"src/helloworld.OLD.d" -o "src/helloworld.OLD.o" "../src/helloworld.OLD.c"
+'Finished building: ../src/helloworld.OLD.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/helloworld.OLD.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22948	   1096	  29780	  53824	   d240	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+21:20:27 **** Clean-only build of configuration Debug for project FreeRTOSZ ****
+make clean 
+rm -rf  ./src/helloworld.OLD.o ./src/platform.o  ./src/helloworld.OLD.d ./src/platform.d  FreeRTOSZ.elf.size  FreeRTOSZ.elf
+' '
+21:20:27 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../helloworld.OLD.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"helloworld.OLD.d" -MT"helloworld.OLD.d" -o "helloworld.OLD.o" "../helloworld.OLD.c"
+../helloworld.OLD.c:37:22: fatal error: platform.h: No such file or directory
+ #include "platform.h"
+                      ^
+compilation terminated.
+make: *** [helloworld.OLD.o] Error 1
+21:20:54 **** Clean-only build of configuration Debug for project FreeRTOSZ ****
+make clean 
+rm -rf  ./src/platform.o  ./helloworld.OLD.o  ./src/platform.d  ./helloworld.OLD.d  FreeRTOSZ.elf.size  FreeRTOSZ.elf
+' '
+21:20:55 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+make: *** No rule to make target `helloworld.OLD.o', needed by `FreeRTOSZ.elf'.  Stop.
+21:23:49 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/FreeRTOS_asm_vectors.S'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/FreeRTOS_asm_vectors.d" -MT"src/FreeRTOS_asm_vectors.d" -o "src/FreeRTOS_asm_vectors.o" "../src/FreeRTOS_asm_vectors.S"
+'Finished building: ../src/FreeRTOS_asm_vectors.S'
+' '
+'Building file: ../src/FreeRTOS_tick_config.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/FreeRTOS_tick_config.d" -MT"src/FreeRTOS_tick_config.d" -o "src/FreeRTOS_tick_config.o" "../src/FreeRTOS_tick_config.c"
+'Finished building: ../src/FreeRTOS_tick_config.c'
+' '
+'Building file: ../src/croutine.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/croutine.d" -MT"src/croutine.d" -o "src/croutine.o" "../src/croutine.c"
+'Finished building: ../src/croutine.c'
+' '
+'Building file: ../src/event_groups.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/event_groups.d" -MT"src/event_groups.d" -o "src/event_groups.o" "../src/event_groups.c"
+'Finished building: ../src/event_groups.c'
+' '
+'Building file: ../src/heap_4.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/heap_4.d" -MT"src/heap_4.d" -o "src/heap_4.o" "../src/heap_4.c"
+'Finished building: ../src/heap_4.c'
+' '
+'Building file: ../src/list.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/list.d" -MT"src/list.d" -o "src/list.o" "../src/list.c"
+'Finished building: ../src/list.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c:108:21: fatal error: partest.h: No such file or directory
+ #include "partest.h"
+                     ^
+compilation terminated.
+make: *** [src/main.o] Error 1
+21:24:17 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'prvSetupHardware':
+../src/main.c:227:2: warning: implicit declaration of function 'vParTestInitialise' [-Wimplicit-function-declaration]
+  vParTestInitialise();
+  ^
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/port.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/port.d" -MT"src/port.d" -o "src/port.o" "../src/port.c"
+'Finished building: ../src/port.c'
+' '
+'Building file: ../src/portASM.S'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/portASM.d" -MT"src/portASM.d" -o "src/portASM.o" "../src/portASM.S"
+'Finished building: ../src/portASM.S'
+' '
+'Building file: ../src/printf-stdarg.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/printf-stdarg.d" -MT"src/printf-stdarg.d" -o "src/printf-stdarg.o" "../src/printf-stdarg.c"
+'Finished building: ../src/printf-stdarg.c'
+' '
+'Building file: ../src/queue.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/queue.d" -MT"src/queue.d" -o "src/queue.o" "../src/queue.c"
+'Finished building: ../src/queue.c'
+' '
+'Building file: ../src/tasks.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/tasks.d" -MT"src/tasks.d" -o "src/tasks.o" "../src/tasks.c"
+'Finished building: ../src/tasks.c'
+' '
+'Building file: ../src/timers.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/timers.d" -MT"src/timers.d" -o "src/timers.o" "../src/timers.c"
+'Finished building: ../src/timers.c'
+' '
+make: *** No rule to make target `helloworld.OLD.o', needed by `FreeRTOSZ.elf'.  Stop.
+21:24:49 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.OLD.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.OLD.d" -MT"src/helloworld.OLD.d" -o "src/helloworld.OLD.o" "../src/helloworld.OLD.c"
+'Finished building: ../src/helloworld.OLD.c'
+' '
+make: *** No rule to make target `helloworld.OLD.o', needed by `FreeRTOSZ.elf'.  Stop.
+21:24:58 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/helloworld.OLD.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.OLD.d" -MT"src/helloworld.OLD.d" -o "src/helloworld.OLD.o" "../src/helloworld.OLD.c"
+'Finished building: ../src/helloworld.OLD.c'
+' '
+make: *** No rule to make target `helloworld.OLD.o', needed by `FreeRTOSZ.elf'.  Stop.
+21:25:37 **** Clean-only build of configuration Debug for project FreeRTOSZ ****
+make clean 
+rm -rf  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/helloworld.OLD.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o  ./helloworld.OLD.o  ./src/FreeRTOS_tick_config.d ./src/croutine.d ./src/event_groups.d ./src/heap_4.d ./src/helloworld.OLD.d ./src/list.d ./src/main.d ./src/platform.d ./src/port.d ./src/printf-stdarg.d ./src/queue.d ./src/tasks.d ./src/timers.d  ./helloworld.OLD.d  FreeRTOSZ.elf.size  ./src/FreeRTOS_asm_vectors.d ./src/portASM.d  FreeRTOSZ.elf
+' '
+21:25:37 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/FreeRTOS_asm_vectors.S'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/FreeRTOS_asm_vectors.d" -MT"src/FreeRTOS_asm_vectors.d" -o "src/FreeRTOS_asm_vectors.o" "../src/FreeRTOS_asm_vectors.S"
+'Finished building: ../src/FreeRTOS_asm_vectors.S'
+' '
+'Building file: ../src/FreeRTOS_tick_config.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/FreeRTOS_tick_config.d" -MT"src/FreeRTOS_tick_config.d" -o "src/FreeRTOS_tick_config.o" "../src/FreeRTOS_tick_config.c"
+'Finished building: ../src/FreeRTOS_tick_config.c'
+' '
+'Building file: ../src/croutine.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/croutine.d" -MT"src/croutine.d" -o "src/croutine.o" "../src/croutine.c"
+'Finished building: ../src/croutine.c'
+' '
+'Building file: ../src/event_groups.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/event_groups.d" -MT"src/event_groups.d" -o "src/event_groups.o" "../src/event_groups.c"
+'Finished building: ../src/event_groups.c'
+' '
+'Building file: ../src/heap_4.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/heap_4.d" -MT"src/heap_4.d" -o "src/heap_4.o" "../src/heap_4.c"
+'Finished building: ../src/heap_4.c'
+' '
+'Building file: ../src/list.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/list.d" -MT"src/list.d" -o "src/list.o" "../src/list.c"
+'Finished building: ../src/list.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'prvSetupHardware':
+../src/main.c:227:2: warning: implicit declaration of function 'vParTestInitialise' [-Wimplicit-function-declaration]
+  vParTestInitialise();
+  ^
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/port.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/port.d" -MT"src/port.d" -o "src/port.o" "../src/port.c"
+'Finished building: ../src/port.c'
+' '
+'Building file: ../src/portASM.S'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/portASM.d" -MT"src/portASM.d" -o "src/portASM.o" "../src/portASM.S"
+'Finished building: ../src/portASM.S'
+' '
+'Building file: ../src/printf-stdarg.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/printf-stdarg.d" -MT"src/printf-stdarg.d" -o "src/printf-stdarg.o" "../src/printf-stdarg.c"
+'Finished building: ../src/printf-stdarg.c'
+' '
+'Building file: ../src/queue.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/queue.d" -MT"src/queue.d" -o "src/queue.o" "../src/queue.c"
+'Finished building: ../src/queue.c'
+' '
+'Building file: ../src/tasks.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/tasks.d" -MT"src/tasks.d" -o "src/tasks.o" "../src/tasks.c"
+'Finished building: ../src/tasks.c'
+' '
+'Building file: ../src/timers.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/timers.d" -MT"src/timers.d" -o "src/timers.o" "../src/timers.c"
+'Finished building: ../src/timers.c'
+' '
+make: *** No rule to make target `helloworld.OLD.o', needed by `FreeRTOSZ.elf'.  Stop.
+21:26:22 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/main.o: In function `main':
+G:\Zybo\FreeRTOS_2\zybo_base_system\zybo_base_system\source\vivado\hw\zybo_bsd\zybo_bsd.sdk\FreeRTOSZ\Debug/../src/main.c:185: undefined reference to `main_blinky'
+./src/main.o: In function `prvSetupHardware':
+G:\Zybo\FreeRTOS_2\zybo_base_system\zybo_base_system\source\vivado\hw\zybo_bsd\zybo_bsd.sdk\FreeRTOSZ\Debug/../src/main.c:227: undefined reference to `vParTestInitialise'
+collect2.exe: error: ld returned 1 exit status
+make: *** [FreeRTOSZ.elf] Error 1
+21:26:51 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  63668	   1896	 112228	 177792	  2b680	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+21:27:42 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  63860	   1896	 112228	 177984	  2b740	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+21:28:56 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  63860	   1896	 112228	 177984	  2b740	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+21:34:19 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:192:4: warning: implicit declaration of function 'delay' [-Wimplicit-function-declaration]
+    delay(1000);
+    ^
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/main.o: In function `main':
+G:\Zybo\FreeRTOS_2\zybo_base_system\zybo_base_system\source\vivado\hw\zybo_bsd\zybo_bsd.sdk\FreeRTOSZ\Debug/../src/main.c:192: undefined reference to `delay'
+collect2.exe: error: ld returned 1 exit status
+make: *** [FreeRTOSZ.elf] Error 1
+22:03:15 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:03:30 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:05:31 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:06:24 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:08:17 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:08:41 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:14:28 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/port.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/port.d" -MT"src/port.d" -o "src/port.o" "../src/port.c"
+'Finished building: ../src/port.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:14:45 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:15:55 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:15:59 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:16:02 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:16:07 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:16:41 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:18:00 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:19:14 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:19:18 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:20:31 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64060	   1896	 112228	 178184	  2b808	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:20:34 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:21:54 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:22:10 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:23:17 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64188	   1896	 112228	 178312	  2b888	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:23:46 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:24:53 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:27:37 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:27:43 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:28:36 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:28:39 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:32:46 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'AXILedBlink':
+../src/main.c:199:3: warning: implicit declaration of function 'malloc' [-Wimplicit-function-declaration]
+   ptr = (int *)malloc(256 * sizeof(int));
+   ^
+../src/main.c:199:16: warning: incompatible implicit declaration of built-in function 'malloc' [enabled by default]
+   ptr = (int *)malloc(256 * sizeof(int));
+                ^
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  67404	   2936	 112292	 182632	  2c968	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:33:18 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64188	   1896	 112228	 178312	  2b888	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:33:28 **** Incremental Build of configuration Debug for project FreeRTOSZ ****
+make all 
+make: Nothing to be done for `all'.
+22:36:23 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'AXILedBlink':
+../src/main.c:184:7: warning: unused variable 'ptr' [-Wunused-variable]
+  int *ptr = NULL;
+       ^
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
+22:36:33 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'AXILedBlink':
+../src/main.c:188:8: error: 'j' undeclared (first use in this function)
+    for(j = 0; j < 5000; j++);
+        ^
+../src/main.c:188:8: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/main.o] Error 1
+22:36:42 **** Auto Build of configuration Debug for project FreeRTOSZ ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../FreeRTOSZ_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: FreeRTOSZ.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../FreeRTOSZ_bsp/ps7_cortexa9_0/lib -o "FreeRTOSZ.elf"  ./src/FreeRTOS_asm_vectors.o ./src/FreeRTOS_tick_config.o ./src/croutine.o ./src/event_groups.o ./src/heap_4.o ./src/list.o ./src/main.o ./src/platform.o ./src/port.o ./src/portASM.o ./src/printf-stdarg.o ./src/queue.o ./src/tasks.o ./src/timers.o    -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: FreeRTOSZ.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size FreeRTOSZ.elf  |tee "FreeRTOSZ.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64124	   1896	 112228	 178248	  2b848	FreeRTOSZ.elf
+'Finished building: FreeRTOSZ.elf.size'
+' '
